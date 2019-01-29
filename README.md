@@ -1,5 +1,5 @@
 ---
-title: Data Basics Spring 2019 Workshop Session One
+title: Data Basics Spring 2019 Workshop Session Two
 layout: default
 permalink: /
 
@@ -39,4 +39,6 @@ Instructional Team:
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 * We will be using the [Center for Research Computing](https://crc.pitt.edu/) services for hosting the course.
 
-* Launch these materials in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-fall-2018/master)
+* Upload these materials to your workspace by clicking this link: [https://bit.ly/2WneLiV](https://bit.ly/2WneLiV)
+
+* Launch these materials in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-spring-2019-two/master?urlpath=lab)
